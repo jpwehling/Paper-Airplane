@@ -1,6 +1,6 @@
 Locate a piece of "letter" paper
 
-Lay paper short side facing up and down on flat surface
+Lay paper on the surface of a flat table, face up, with the short edges toward you and away.
     orientation is "standard postion"
 
 Fold paper in half creasing the fold
@@ -9,8 +9,8 @@ Fold paper in half creasing the fold
 Unfold paper and lay in standard postion
     creased line created is "center line"
 
-Fold paper for the most top left corner to the top of the centerline
-    till it is even with the centerline
+Fold paper for the most top left corner to the centerline 
+    till it is overlayed with the centerline
     crease the created fold
     repeat previous step on the right side
 
