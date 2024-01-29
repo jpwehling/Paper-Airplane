@@ -1,0 +1,22 @@
+Locate a piece of "letter" paper
+
+Lay paper on the surface of a flat table, face up, with the short edges toward you and away.
+    orientation is "standard postion"
+
+Fold paper in half creasing the fold
+    long side touching other long side
+
+Unfold paper and lay in standard postion
+    creased line created is "center line"
+
+Fold paper for the most top left corner to the centerline 
+    till it is overlayed with the centerline
+    crease the created fold
+    repeat previous step on the right side
+
+Repeat previous step 2 times
+
+Pick up paper and fold center line along original crease
+    Unfold outer most creased lines
+    pinch the remain of the papers together toward the center line
+        "paper plane" form completed
